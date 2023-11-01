@@ -1,0 +1,17 @@
+.container{
+    border: 1px solid black;
+    padding: 20px;
+    background-color: azure;
+}
+.title{
+    color:blueviolet;
+}
+
+span{
+    font-weight: bold;
+    font-style: italic;
+}
+
+img{
+    width: 50px;
+}

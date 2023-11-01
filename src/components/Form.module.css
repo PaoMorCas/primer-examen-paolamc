@@ -1,0 +1,27 @@
+.container{
+    border: 1px solid black;
+    padding: 20px;
+    background-color: azure;
+}
+
+.control{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+
+button{
+    width: 100%;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    box-shadow: 3px 2px #ededee;
+    border: none;
+    border-radius: 6px;
+}
+
+.error{
+    color: red;
+    font-weight: bold;
+}
